@@ -18,6 +18,7 @@ jq.1
 
 # Generated source
 src/builtin.inc
+src/config_opts.inc
 *.pc
 
 # Autotools junk
@@ -33,6 +34,7 @@ autom4te.cache
 INSTALL
 Makefile
 jq-*.tar.gz
+jq-*.zip
 configure
 aclocal.m4
 Makefile.in
